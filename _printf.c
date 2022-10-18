@@ -4,6 +4,6 @@
 
 /**
  * _printf - check the code for ALX School students.
- * format: argument count
+ * @format: argument count
  * Return: Always 0.
  */
